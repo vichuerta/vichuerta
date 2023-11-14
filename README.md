@@ -4,7 +4,7 @@
 <!---
  💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me [vichuerta.github.io](https://github.com/vichuerta/vichuerta.github.io)
+- 📫 How to reach me [vichuerta.github.io](https://vichuerta.github.io)
 
 <!---
 vichuerta/vichuerta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
